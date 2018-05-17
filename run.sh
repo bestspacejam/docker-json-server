@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/bin/sh
 
-args="$@"
+#args="$@"
 
 args="$@ -p 80"
 
